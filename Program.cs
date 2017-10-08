@@ -11,8 +11,9 @@ namespace Zarzadzanie_pojazdami_s2
         static void Main(string[] args)
         {
             Woz Poj = new Woz();
-            
-            IPojLadWodWoj Amfibia = Poj.UstawAttr("Amfibia",5,8,60,20,23.4);
+
+            IPojLadWodWoj Amfibia = Poj;
+            Amfibia.UstawAttr("Amfibia", 5, 8, 60, 20, 23.4);
             Amfibia.Melduj();
             IPojLadWoj Czolg = new Woz();
             Czolg.Melduj();
@@ -30,8 +31,7 @@ namespace Zarzadzanie_pojazdami_s2
             Zaglowka.Kod = "Zaglowka";
             Zaglowka.L_zaloga = 4;
             Zaglowka.V_wod = 30;
-            Type type = typeof(Woz).GetInterface("IPojLad");
-            Console.WriteLine(type);
+          
             Console.ReadKey();
         }
     }

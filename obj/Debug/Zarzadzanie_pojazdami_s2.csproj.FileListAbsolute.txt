@@ -1,0 +1,7 @@
+D:\Projects\Cplotki\Training2_Cplotek\Zarzadzanie_pojazdami_s2\Zarzadzanie_pojazdami_s2\bin\Debug\Zarzadzanie_pojazdami_s2.exe.config
+D:\Projects\Cplotki\Training2_Cplotek\Zarzadzanie_pojazdami_s2\Zarzadzanie_pojazdami_s2\bin\Debug\Zarzadzanie_pojazdami_s2.exe
+D:\Projects\Cplotki\Training2_Cplotek\Zarzadzanie_pojazdami_s2\Zarzadzanie_pojazdami_s2\bin\Debug\Zarzadzanie_pojazdami_s2.pdb
+D:\Projects\Cplotki\Training2_Cplotek\Zarzadzanie_pojazdami_s2\Zarzadzanie_pojazdami_s2\obj\Debug\Zarzadzanie_pojazdami_s2.csprojResolveAssemblyReference.cache
+D:\Projects\Cplotki\Training2_Cplotek\Zarzadzanie_pojazdami_s2\Zarzadzanie_pojazdami_s2\obj\Debug\Zarzadzanie_pojazdami_s2.csproj.CoreCompileInputs.cache
+D:\Projects\Cplotki\Training2_Cplotek\Zarzadzanie_pojazdami_s2\Zarzadzanie_pojazdami_s2\obj\Debug\Zarzadzanie_pojazdami_s2.exe
+D:\Projects\Cplotki\Training2_Cplotek\Zarzadzanie_pojazdami_s2\Zarzadzanie_pojazdami_s2\obj\Debug\Zarzadzanie_pojazdami_s2.pdb
